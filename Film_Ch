@@ -1,0 +1,1192 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",START World
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18032/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",START Air HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18036/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",VHS Classic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19429/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",фантастика
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18043/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Видеокассета HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16049/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Видеокассета Ужасы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16141/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Видеокассета Юность
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19318/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Ужастик HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19273/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",kino watch тв Свежаки HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16045/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",kino watch тв Уже видел HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16046/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Cinema HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16067/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Cinema
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19287/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Kids
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19288/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Comedy
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19289/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Premiere
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19290/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Family
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19291/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Rating
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19292/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh VHS
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19293/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Fantastic
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19294/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Series
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19295/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Horror
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19296/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Adventure
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19297/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Romantic
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19298/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Russian
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19299/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Thriller
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19300/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Fresh Soviet
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19301/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI Cinema HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16078/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI Comedy HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16080/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI History HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18047/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI Premium HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18048/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI Russian HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18049/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI Fantastic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18050/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI CCCP HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18175/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI Family HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18176/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI VHS HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18173/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI Retro HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18177/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI Thriller HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18174/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KLI Киносерия FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19400/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP CINEMA FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19313/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV cinemaQHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19315/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV Premier HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19399/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV cinemaV
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19316/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP skazkiussr FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19317/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV KIDS HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18141/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV COMEDY HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18146/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV FANTAZY HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18144/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV CRIMINAL HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18140/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV CINEMA HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18147/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV COMEDY HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18143/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV HORROR HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18145/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV SERIAL HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19271/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",PROKOP TV SERIAL FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19272/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Малдер тв ХИТ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19263/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Малдер тв VHS
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19264/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Малдер тв Фантастика
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19265/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Малдер тв Сериал
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19266/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Малдер тв Семейный
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19267/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Малдер тв Ужасы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19268/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Малдер тв Мультики 90ых
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19269/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",AkuDji HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14161/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH MIX 4K
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17025/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH UHD HDR
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17059/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH VHS UHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17058/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH FRESH 60
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16061/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH FRESH HDR
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16066/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH HEROES HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14242/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH BY SLONKA
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16142/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH SPIRIT HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14249/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH FUTURE HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15103/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH EPOCH HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14243/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH FRESH HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14244/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH ЧБУ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16142/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH ADULT HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15166/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH RUSSIAN HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16060/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH SERIES HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14240/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH ORIG HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19310/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH BRAIN HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19404/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",SKY HIGH ANIME HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19405/index.m3u8
+#EXTINF:0 tvg-id=\"box-franchise\" group-title=\"RU Movie\",BOX Franchise HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19274/index.m3u8
+#EXTINF:0 tvg-id=\"box-hybrid\" group-title=\"RU Movie\",BOX Hybrid HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19275/index.m3u8
+#EXTINF:0 tvg-id=\"box-anime\" group-title=\"RU Movie\",BOX Anime HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19276/index.m3u8
+#EXTINF:0 tvg-id=\"box-gangster\" group-title=\"RU Movie\",BOX Gangster HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19277/index.m3u8
+#EXTINF:0 tvg-id=\"box-oscar\" group-title=\"RU Movie\",BOX Oscar HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19278/index.m3u8
+#EXTINF:0 tvg-id=\"box-memory\" group-title=\"RU Movie\",BOX Memory HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19279/index.m3u8
+#EXTINF:0 tvg-id=\"box-mserial\" group-title=\"RU Movie\",BOX M.Serial HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19280/index.m3u8
+#EXTINF:0 tvg-id=\"box-serial\" group-title=\"RU Movie\",BOX Serial HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19281/index.m3u8
+#EXTINF:0 tvg-id=\"box-game\" group-title=\"RU Movie\",BOX Game HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19284/index.m3u8
+#EXTINF:0 tvg-id=\"box-spy\" group-title=\"RU Movie\",BOX Spy HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19285/index.m3u8
+#EXTINF:0 tvg-id=\"box-travel\" group-title=\"RU Movie\",BOX Travel HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19418/index.m3u8
+#EXTINF:0 tvg-id=\"box-western\" group-title=\"RU Movie\",BOX Western HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19419/index.m3u8
+#EXTINF:0 tvg-id=\"box-zombie\" group-title=\"RU Movie\",BOX Zombie HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19420/index.m3u8
+#EXTINF:0 tvg-id=\"box-cyber\" group-title=\"RU Movie\",BOX Cyber HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19421/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",MM Flip UHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13057/index.m3u8
+#EXTINF:0 tvg-id=\"newfilm1-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Newfilm 1 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13011/index.m3u8
+#EXTINF:0 tvg-id=\"newfilm2-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Newfilm 2 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13012/index.m3u8
+#EXTINF:0 tvg-id=\"newfilm3-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Newfilm 3 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13013/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",MM Newfilm.ru HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13014/index.m3u8
+#EXTINF:0 tvg-id=\"family_1-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Семейный 1 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13097/index.m3u8
+#EXTINF:0 tvg-id=\"family2-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Семейный 2 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13098/index.m3u8
+#EXTINF:0 tvg-id=\"walt-disney-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Walt Disney HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13064/index.m3u8
+#EXTINF:0 tvg-id=\"comedy-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Комедия HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13038/index.m3u8
+#EXTINF:0 tvg-id=\"comedy_classic-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Комедия Classic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13037/index.m3u8
+#EXTINF:0 tvg-id=\"prikluchenija-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Приключения HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13048/index.m3u8
+#EXTINF:0 tvg-id=\"fantastika-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Фантастика HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13062/index.m3u8
+#EXTINF:0 tvg-id=\"kiberpunk-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Киберпанк HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13036/index.m3u8
+#EXTINF:0 tvg-id=\"katastrofa-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Катастрофа HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13034/index.m3u8
+#EXTINF:0 tvg-id=\"pogrujenie-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Погружение HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13047/index.m3u8
+#EXTINF:0 tvg-id=\"ufo-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM UFO HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13017/index.m3u8
+#EXTINF:0 tvg-id=\"zatmenie-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Затмение HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13032/index.m3u8
+#EXTINF:0 tvg-id=\"love-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Love HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13010/index.m3u8
+#EXTINF:0 tvg-id=\"boevik-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Боевик HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13028/index.m3u8
+#EXTINF:0 tvg-id=\"boevik_classic-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Боевик Classic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13027/index.m3u8
+#EXTINF:0 tvg-id=\"kungfu-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Кунг-Фу HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13041/index.m3u8
+#EXTINF:0 tvg-id=\"supergeroi-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Супергерои HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13056/index.m3u8
+#EXTINF:0 tvg-id=\"kriminal-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Криминал HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13039/index.m3u8
+#EXTINF:0 tvg-id=\"agata-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Агата Кристи HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13024/index.m3u8
+#EXTINF:0 tvg-id=\"western-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Вестерн HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13029/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",ММ Грайндхаус HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13025/index.m3u8
+#EXTINF:0 tvg-id=\"istorija-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM История HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13033/index.m3u8
+#EXTINF:0 tvg-id=\"drama-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Драма HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16086/index.m3u8
+#EXTINF:0 tvg-id=\"skorost-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Скорость HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13053/index.m3u8
+#EXTINF:0 tvg-id=\"sport-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Спорт HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13054/index.m3u8
+#EXTINF:0 tvg-id=\"celebrity-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Celebrity HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16084/index.m3u8
+#EXTINF:0 tvg-id=\"triller-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Триллер HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13058/index.m3u8
+#EXTINF:0 tvg-id=\"mifologija-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Мифология HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13044/index.m3u8
+#EXTINF:0 tvg-id=\"fobija-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Фобия HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13063/index.m3u8
+#EXTINF:0 tvg-id=\"ujasi-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Ужасы HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13099/index.m3u8
+#EXTINF:0 tvg-id=\"ujasi-classic-mm\" group-title=\"RU Movie\",MM Ужасы Classic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14128/index.m3u8
+#EXTINF:0 tvg-id=\"ujastik-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Ужастик HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13059/index.m3u8
+#EXTINF:0 tvg-id=\"st-king-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Стивен Кинг HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13055/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",MM Уэс Крэйвен HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13061/index.m3u8
+#EXTINF:0 tvg-id=\"classic-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Classic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16085/index.m3u8
+#EXTINF:0 tvg-id=\"nuar-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Нуар HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13045/index.m3u8
+#EXTINF:0 tvg-id=\"roskino-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Роскино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13050/index.m3u8
+#EXTINF:0 tvg-id=\"ussr-komedija-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM USSR Комедия HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13019/index.m3u8
+#EXTINF:0 tvg-id=\"ussr-prikluchenija-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM USSR Приключения HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13060/index.m3u8
+#EXTINF:0 tvg-id=\"ussr-fantastika-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM USSR Фантастика HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13022/index.m3u8
+#EXTINF:0 tvg-id=\"ussr-detektiv-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM USSR Детектив HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13096/index.m3u8
+#EXTINF:0 tvg-id=\"mult-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM USSR Мультфильм HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13020/index.m3u8
+#EXTINF:0 tvg-id=\"ussr-skazki-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM USSR Сказки HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13021/index.m3u8
+#EXTINF:0 tvg-id=\"ussr-1941-1945-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM USSR 1941-1945 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13018/index.m3u8
+#EXTINF:0 tvg-id=\"krutie-90-e-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Крутые 90-е HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13040/index.m3u8
+#EXTINF:0 tvg-id=\"sitkom-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Ситком HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13052/index.m3u8
+#EXTINF:0 tvg-id=\"oldschool-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM OldSchool HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19413/index.m3u8
+#EXTINF:0 tvg-id=\"olga-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Ольга HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13046/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",MM Полицейский с Рублёвки HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13049/index.m3u8
+#EXTINF:0 tvg-id=\"voronini-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Воронины HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13031/index.m3u8
+#EXTINF:0 tvg-id=\"svati-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM Сваты HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13051/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",MM Байки Митяя HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13025/index.m3u8
+#EXTINF:0 tvg-id=\"007-mm\" group-title=\"RU Movie\" timeshift=\"7\",MM 007 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13009/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",MYTV HIT
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19410/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",MYTV
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19407/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",MYTV 2
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19408/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",MYTV 3
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19411/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",LIBERTY DC
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15087/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Liberty Ужасы FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15088/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Liberty Комедии FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16054/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Liberty Триллеры FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15089/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Liberty Фан HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19403/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Liberty Короткометражное FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15091/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Liberty Мелодрамы FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15095/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Liberty Боевики FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15096/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Liberty Сериалы FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16055/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Liberty Сваты
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15164/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",LIBERTY piksar
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15092/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",LIBERTY DISNEI
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15093/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",LIBERTY myltiki
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15094/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",LIBERTY SouthPark
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16053/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",LIBERRTY THE SIMSONS
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15111/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",MS MAGIC HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16143/index.m3u8
+#EXTINF:0 tvg-id=\"animated-ms\" group-title=\"RU Movie\",MS ANIMATED HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15135/index.m3u8
+#EXTINF:0 tvg-id=\"ms-prisons\" group-title=\"RU Movie\",MS PRISONS HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15137/index.m3u8
+#EXTINF:0 tvg-id=\"ms-toons\" group-title=\"RU Movie\",MS TOONS HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15138/index.m3u8
+#EXTINF:0 tvg-id=\"ms-young-blood\" group-title=\"RU Movie\",MS YOUNG BLOOD HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15139/index.m3u8
+#EXTINF:0 tvg-id=\"premiere-hd\" group-title=\"RU Movie\" timeshift=\"7\",Premiere HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11094/index.m3u8
+#EXTINF:0 tvg-id=\"premium-hd\" group-title=\"RU Movie\" timeshift=\"7\",Premium HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11095/index.m3u8
+#EXTINF:0 tvg-id=\"paradox-hd\" group-title=\"RU Movie\" timeshift=\"7\",Paradox HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11098/index.m3u8
+#EXTINF:0 tvg-id=\"thriller-hd\" group-title=\"RU Movie\" timeshift=\"7\",Thriller HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11099/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Insomnia HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19398/index.m3u8
+#EXTINF:0 tvg-id=\"paradise-hd\" group-title=\"RU Movie\" timeshift=\"7\",Paradise HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11100/index.m3u8
+#EXTINF:0 tvg-id=\"rukino-hd\" group-title=\"RU Movie\" timeshift=\"7\",РуКино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11096/index.m3u8
+#EXTINF:0 tvg-id=\"victory-hd\" group-title=\"RU Movie\" timeshift=\"7\",Victory HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11097/index.m3u8
+#EXTINF:0 tvg-id=\"vhshd\" group-title=\"RU Movie\",VHS HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15000/index.m3u8
+#EXTINF:0 tvg-id=\"ussr-premieregroup\" group-title=\"RU Movie\" timeshift=\"7\",USSR
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11102/index.m3u8
+#EXTINF:0 tvg-id=\"serial-hd\" group-title=\"RU Movie\" timeshift=\"7\",Serial HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11101/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",TOP MIX HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13006/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",TOP BUDO HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13003/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",TOP Cinema HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13004/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",TOP USSR HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13005/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",TOP 80 S HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13002/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",TOP Великолепный Век HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13001/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-trumotion\" group-title=\"RU Movie\",BCU TruMotion HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17054/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",BCU Kinozakaz HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11043/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",BCU MEDIA OLD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15024/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-premiere\" group-title=\"RU Movie\" timeshift=\"7\",BCU Premiere HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11039/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-cinema\" group-title=\"RU Movie\" timeshift=\"7\",BCU Cinema HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11029/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-cinema-plus\" group-title=\"RU Movie\" timeshift=\"7\",BCU Cinema+ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11030/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-kids\" group-title=\"RU Movie\" timeshift=\"7\",BCU Kids HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11035/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-kids-plus\" group-title=\"RU Movie\" timeshift=\"7\",BCU Kids+ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11036/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-multserial\" group-title=\"RU Movie\" timeshift=\"7\",BCU Мультсериал HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11025/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-comedy\" group-title=\"RU Movie\" timeshift=\"7\",BCU Comedy HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11031/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",BCU Comedy OLD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15026/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-action\" group-title=\"RU Movie\" timeshift=\"7\",BCU Action HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11027/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-criminal\" group-title=\"RU Movie\" timeshift=\"7\",BCU Criminal HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11048/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-catastrophe\" group-title=\"RU Movie\" timeshift=\"7\",BCU Catastrophe HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11028/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-marvel\" group-title=\"RU Movie\" timeshift=\"7\",BCU Marvel HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11038/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",BCU Marvel OLD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15025/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-fantastic\" group-title=\"RU Movie\" timeshift=\"7\",BCU Fantastic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11032/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-filmystic\" group-title=\"RU Movie\" timeshift=\"7\",BCU FilMystic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11033/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-reality\" group-title=\"RU Movie\",BCU Reality HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16082/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",BCU Reality OLD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16083/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",BCU Reality OLD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16083/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-stars\" group-title=\"RU Movie\" timeshift=\"7\",BCU Stars HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11044/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-romantic\" group-title=\"RU Movie\" timeshift=\"7\",BCU Romantic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11040/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",BCU Romantic OLD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18052/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-history\" group-title=\"RU Movie\" timeshift=\"7\",BCU History HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11034/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-kinorating\" group-title=\"RU Movie\" timeshift=\"7\",BCU Kinorating HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11037/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-survival\" group-title=\"RU Movie\",BCU Survival HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17019/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",BCU Survival OLD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17020/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-cosmo\" group-title=\"RU Movie\",BCU Cosmo HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17021/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",BCU Cosmo OLD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17022/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-charm\" group-title=\"RU Movie\",BCU Charm HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18053/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-russian\" group-title=\"RU Movie\" timeshift=\"7\",BCU Russian HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11041/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-vhs\" group-title=\"RU Movie\" timeshift=\"7\",BCU VHS HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11042/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-ussr\" group-title=\"RU Movie\" timeshift=\"7\",BCU СССР HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11026/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-ruserial\" group-title=\"RU Movie\" timeshift=\"7\",BCU RUSERIAL HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11046/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-svaty\" group-title=\"RU Movie\" timeshift=\"7\",BCU Сваты HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11047/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-kinozal-prem1\" group-title=\"RU Movie\" timeshift=\"7\",BCU Кинозал Premiere 1 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11015/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-kinozal-prem2\" group-title=\"RU Movie\" timeshift=\"7\",BCU Кинозал Premiere 2 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11016/index.m3u8
+#EXTINF:0 tvg-id=\"bcu-kinozal-prem3\" group-title=\"RU Movie\" timeshift=\"7\",BCU Кинозал Premiere 3 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11017/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Z! Channel HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14134/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Z! Comedy HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14135/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Z!Smile HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15142/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Z! Crime HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14136/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Z! Horror HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14137/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Z!Serial HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15140/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Z!Sitcom HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15141/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic Family HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18170/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic Love HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18171/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic Karate HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18061/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic VHS HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18062/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic Comedy HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18063/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic Disney HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18064/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic Thriller HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18065/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic Action HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18066/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic Galaxy HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18067/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Magic Horror HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18068/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Kinoshka Premiere HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18117/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Kinoshka Action HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18118/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Kinoshka Triller HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18055/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Kinoshka KIDS HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18056/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Kinoshka Comedy HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18057/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Kinoshka Russian HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18058/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Kinoshka Mystic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18059/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Kinoshka Drama HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18150/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 1
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18126/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 2
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18127/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 3
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18128/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 4
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18129/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 5
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18130/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 6
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18131/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 7
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18132/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 8
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18133/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 9
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18134/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 10
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18135/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 11
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18136/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кинозал 12
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18137/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ 4K Kino UHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18162/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ SWIRIDENKO TV HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18106/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ SWIRIDENKO TV HD 2
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18107/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ TV HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14220/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",UZ Kino1 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13074/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",UZ Kino HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13073/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",UZ Kino3 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13075/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",UZ Kino4 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13076/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ Kino 5 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14232/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ Кино Новинки HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14126/index.m3u8
+#EXTINF:0 tvg-id=\"uz-komedia\" group-title=\"RU Movie\",UZ Комедия HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14127/index.m3u8
+#EXTINF:0 tvg-id=\"uz-multzal\" group-title=\"RU Movie\" timeshift=\"7\",UZ МУЛЬТЗАЛ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13066/index.m3u8
+#EXTINF:0 tvg-id=\"uz-uzhasnoe\" group-title=\"RU Movie\" timeshift=\"7\",UZ Ужасное ТВ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13068/index.m3u8
+#EXTINF:0 tvg-id=\"uz-fantastika\" group-title=\"RU Movie\" timeshift=\"7\",UZ Фантастика HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13065/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ Катастрофа HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18164/index.m3u8
+#EXTINF:0 tvg-id=\"uz-prikluchenie\" group-title=\"RU Movie\" timeshift=\"7\",UZ Приключение HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13069/index.m3u8
+#EXTINF:0 tvg-id=\"uz-boeviki\" group-title=\"RU Movie\" timeshift=\"7\",UZ Боевики HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13077/index.m3u8
+#EXTINF:0 tvg-id=\"uz-boycovskino\" group-title=\"RU Movie\" timeshift=\"7\",UZ Бойцовское кино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13070/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ Vitek tv
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13100/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ Кинозал HEVC HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15099/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ Союз-Фильмы HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18167/index.m3u8
+#EXTINF:0 tvg-id=\"uz-kinokomfort\" group-title=\"RU Movie\",UZ-Кинокомфорт HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13101/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",UZ Сваты HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18166/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",UZ 6kadrov media
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13079/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",UZ Ералаш ТВ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13071/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",UZ Малютка ТВ
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13072/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",UZ-Tom&Jerry HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13078/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-newkino\" group-title=\"RU Movie\",YOSSO TV NEW Кино
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14177/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",YOSSO TV C-Comedy
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16151/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",YOSSO TV C-Inquest
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16152/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",YOSSO TV C-Cartoon
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16050/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",YOSSO TV C-Marvel
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16051/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-grand\" group-title=\"RU Movie\",YOSSO TV Grand
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14171/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-thriller\" group-title=\"RU Movie\",YOSSO TV Thriller
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15168/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Yosso TV Мелодрама
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19434/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-vhs\" group-title=\"RU Movie\",YOSSO TV VHS
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14172/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-rusfilm\" group-title=\"RU Movie\",YOSSO TV Русские фильмы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14174/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-sovfilm\" group-title=\"RU Movie\",YOSSO TV Советские фильмы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14175/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-tragic\" group-title=\"RU Movie\",YOSSO TV Трагичное
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14219/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-zabavno\" group-title=\"RU Movie\",YOSSO TV Забавное
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14234/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-cowboy\" group-title=\"RU Movie\",YOSSO TV Ковбойское
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14235/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-best\" group-title=\"RU Movie\",YOSSO TV Best
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14236/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-adrenalin\" group-title=\"RU Movie\",YOSSO TV Adrenaline
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15105/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-oblivion\" group-title=\"RU Movie\",YOSSO TV Oblivion
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15509/index.m3u8
+#EXTINF:0 tvg-id=\"yosso-adventure\" group-title=\"RU Movie\",YOSSO TV Adventure
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15510/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-new\" group-title=\"RU Movie\",Dosug New HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14216/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-kids\" group-title=\"RU Movie\",Dosug Kids HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14214/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-comedy\" group-title=\"RU Movie\",Dosug Comedy HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14209/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-hit\" group-title=\"RU Movie\",Dosug Hit HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14212/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-fantastic\" group-title=\"RU Movie\",Dosug Fantastic HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14210/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-marvel\" group-title=\"RU Movie\",Dosug Marvel HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14215/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-history\" group-title=\"RU Movie\",Dosug History HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14211/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-horror\" group-title=\"RU Movie\",Dosug Horror HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14213/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-russian\" group-title=\"RU Movie\",Dosug Russian HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14217/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-cccp\" group-title=\"RU Movie\",Dosug СССР HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14218/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-vhs\" group-title=\"RU Movie\",Dosug TV VHS
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14225/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-walking-dead\" group-title=\"RU Movie\",Dosug TV Ходячие мертвецы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14226/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-serial\" group-title=\"RU Movie\",Dosug TV Сериал
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14227/index.m3u8
+#EXTINF:0 tvg-id=\"dosug-tv-svaty\" group-title=\"RU Movie\",Dosug TV Сваты
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/14228/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Dosug TV ER
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15102/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",VF Netflix
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19427/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",VF HBO
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19428/index.m3u8
+#EXTINF:0 tvg-id=\"vf-premiera\" group-title=\"RU Movie\" timeshift=\"7\",VF Премьера
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10051/index.m3u8
+#EXTINF:0 tvg-id=\"vf-premiere\" group-title=\"RU Movie\" timeshift=\"7\",VF Premiere
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10052/index.m3u8
+#EXTINF:0 tvg-id=\"vf-anime\" group-title=\"RU Movie\" timeshift=\"7\",VF Anime
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10001/index.m3u8
+#EXTINF:0 tvg-id=\"vf-cartoon\" group-title=\"RU Movie\" timeshift=\"7\",VF Cartoon
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10002/index.m3u8
+#EXTINF:0 tvg-id=\"vf-vhs-cartoon\" group-title=\"RU Movie\" timeshift=\"7\",VF VHS Cartoon
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11118/index.m3u8
+#EXTINF:0 tvg-id=\"vf-malysh\" group-title=\"RU Movie\" timeshift=\"7\",VF Малыш
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11123/index.m3u8
+#EXTINF:0 tvg-id=\"vf-multfilmy-sssr\" group-title=\"RU Movie\" timeshift=\"7\",VF Мультфильмы СССР
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10086/index.m3u8
+#EXTINF:0 tvg-id=\"vf-comedy\" group-title=\"RU Movie\" timeshift=\"7\",VF Comedy
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10003/index.m3u8
+#EXTINF:0 tvg-id=\"vf-komedia\" group-title=\"RU Movie\" timeshift=\"7\",VF Комедия
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10055/index.m3u8
+#EXTINF:0 tvg-id=\"vf-family\" group-title=\"RU Movie\" timeshift=\"7\",VF Family
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10004/index.m3u8
+#EXTINF:0 tvg-id=\"vf-melodrama\" group-title=\"RU Movie\" timeshift=\"7\",VF Melodrama
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10006/index.m3u8
+#EXTINF:0 tvg-id=\"vf-katastrofy\" group-title=\"RU Movie\" timeshift=\"7\",VF Катастрофы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10080/index.m3u8
+#EXTINF:0 tvg-id=\"vf-comics\" group-title=\"RU Movie\" timeshift=\"7\",VF Comics
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13092/index.m3u8
+#EXTINF:0 tvg-id=\"vf-marvel\" group-title=\"RU Movie\" timeshift=\"7\",VF Marvel
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10081/index.m3u8
+#EXTINF:0 tvg-id=\"vf-boevik\" group-title=\"RU Movie\" timeshift=\"7\",VF Боевик
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10087/index.m3u8
+#EXTINF:0 tvg-id=\"vf-kriminal\" group-title=\"RU Movie\" timeshift=\"7\",VF Криминал
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13093/index.m3u8
+#EXTINF:0 tvg-id=\"vf-detective\" group-title=\"RU Movie\" timeshift=\"7\",VF Detective
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11120/index.m3u8
+#EXTINF:0 tvg-id=\"vf-oskar\" group-title=\"RU Movie\" timeshift=\"7\",VF Оскар
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11122/index.m3u8
+#EXTINF:0 tvg-id=\"vf-fantastic\" group-title=\"RU Movie\" timeshift=\"7\",VF Fantastic
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11121/index.m3u8
+#EXTINF:0 tvg-id=\"vf-fantasy\" group-title=\"RU Movie\" timeshift=\"7\",VF Fantasy
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10005/index.m3u8
+#EXTINF:0 tvg-id=\"vf-adventure\" group-title=\"RU Movie\" timeshift=\"7\",VF Adventure
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10000/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",VF Triller
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13089/index.m3u8
+#EXTINF:0 tvg-id=\"vf-mystic\" group-title=\"RU Movie\" timeshift=\"7\",VF Mystic
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10007/index.m3u8
+#EXTINF:0 tvg-id=\"vf-uzhasy\" group-title=\"RU Movie\" timeshift=\"7\",VF Ужасы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10008/index.m3u8
+#EXTINF:0 tvg-id=\"vf-uzhasy-vhs\" group-title=\"RU Movie\" timeshift=\"7\",VF Ужасы VHS
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10010/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",VF Без цензуры
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17017/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",VF New Year
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15522/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",VF С новым годом!
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15524/index.m3u8
+#EXTINF:0 tvg-id=\"vf-istorya\" group-title=\"RU Movie\" timeshift=\"7\",VF История
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13091/index.m3u8
+#EXTINF:0 tvg-id=\"vf-klassika\" group-title=\"RU Movie\" timeshift=\"7\",VF Классика
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10053/index.m3u8
+#EXTINF:0 tvg-id=\"vf-classic\" group-title=\"RU Movie\" timeshift=\"7\",VF Classic
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10054/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",VF VHS MIX
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10009/index.m3u8
+#EXTINF:0 tvg-id=\"vf-voennye\" group-title=\"RU Movie\" timeshift=\"7\",VF Военные
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10082/index.m3u8
+#EXTINF:0 tvg-id=\"vf-pobeda\" group-title=\"RU Movie\" timeshift=\"7\",VF Наша победа
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10083/index.m3u8
+#EXTINF:0 tvg-id=\"vf-mosfilm\" group-title=\"RU Movie\" timeshift=\"7\",VF Мосфильм
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10084/index.m3u8
+#EXTINF:0 tvg-id=\"vf-filmy-sssr\" group-title=\"RU Movie\" timeshift=\"7\",VF Фильмы СССР
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10085/index.m3u8
+#EXTINF:0 tvg-id=\"vf-arthouse\" group-title=\"RU Movie\" timeshift=\"7\",VF Art house
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11119/index.m3u8
+#EXTINF:0 tvg-id=\"vf-mylnoper\" group-title=\"RU Movie\" timeshift=\"7\",VF Мыльные оперы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13088/index.m3u8
+#EXTINF:0 tvg-id=\"vf-serial\" group-title=\"RU Movie\" timeshift=\"7\",VF Сериал
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13087/index.m3u8
+#EXTINF:0 tvg-id=\"vf-series\" group-title=\"RU Movie\" timeshift=\"7\",VF Series
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13085/index.m3u8
+#EXTINF:0 tvg-id=\"vf-top-series\" group-title=\"RU Movie\" timeshift=\"7\",VF TOP Series
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11116/index.m3u8
+#EXTINF:0 tvg-id=\"vf-swty\" group-title=\"RU Movie\" timeshift=\"7\",VF Сваты
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13080/index.m3u8
+#EXTINF:0 tvg-id=\"vf-sled\" group-title=\"RU Movie\" timeshift=\"7\",VF След
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13086/index.m3u8
+#EXTINF:0 tvg-id=\"vf-soldats\" group-title=\"RU Movie\" timeshift=\"7\",VF Солдаты
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13081/index.m3u8
+#EXTINF:0 tvg-id=\"vf-taynsled\" group-title=\"RU Movie\" timeshift=\"7\",VF Тайны следствия
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13082/index.m3u8
+#EXTINF:0 tvg-id=\"vf-voronins\" group-title=\"RU Movie\" timeshift=\"7\",VF Воронины
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13083/index.m3u8
+#EXTINF:0 tvg-id=\"vf-univer\" group-title=\"RU Movie\" timeshift=\"7\",VF Универ
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13084/index.m3u8
+#EXTINF:0 tvg-id=\"vf-klinika\" group-title=\"RU Movie\" timeshift=\"7\",VF Клиника
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13094/index.m3u8
+#EXTINF:0 tvg-id=\"vf-cartoon-18pl\" group-title=\"RU Movie\" timeshift=\"7\",VF Cartoon 18+
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11117/index.m3u8
+#EXTINF:0 tvg-id=\"vf-indiya\" group-title=\"RU Movie\" timeshift=\"7\",VF Индия
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13090/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",KBC-B.O.B
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11072/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-comics\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Comics
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11073/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-family-animation\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Family Animation
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11075/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-elite-comedys\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Elite comedys
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11074/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-newfilm\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Newfilm
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11079/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-premium\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Premium
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11080/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-koshmar\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Кошмарное
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11088/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-fantastic\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Fantastic
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11076/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-spy\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Шпионское
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11093/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-history\" group-title=\"RU Movie\" timeshift=\"7\",KBC-History
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11077/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",KBC-ГАЙ Ritchie & Tarantino
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11085/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Драма tic
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11086/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-kinoteatr\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Кинотеатр
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11087/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Легендарное
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11083/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-vidak\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Видак
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11084/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-russian-comedia\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Russian Комедия
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11081/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-light-serial-ru\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Light сериал RU
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11078/index.m3u8
+#EXTINF:0 tvg-id=\"kbc-sssr\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Страна СССР
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11091/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",KBC-Криминальный Serial
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11092/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Eye Media HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17064/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Eye Oscar HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17065/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Eye Frozen HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17066/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Eye Criminal HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17067/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Eye Modern HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/17068/index.m3u8
+#EXTINF:0 tvg-id=\"cineman\" group-title=\"RU Movie\" timeshift=\"7\",CineMan
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11004/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-top\" group-title=\"RU Movie\" timeshift=\"7\",CineMan Top
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11005/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-comedy\" group-title=\"RU Movie\" timeshift=\"7\",CineMan Комедия
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11011/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-action\" group-title=\"RU Movie\" timeshift=\"7\",CineMan Action
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11006/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-marvel\" group-title=\"RU Movie\" timeshift=\"7\",CineMan Marvel
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11009/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-thriller\" group-title=\"RU Movie\" timeshift=\"7\",CineMan Thriller
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11007/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-disasters\" group-title=\"RU Movie\",CineMan Катастрофы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15106/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-melodrama\" group-title=\"RU Movie\" timeshift=\"7\",CineMan Мелодрама
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11008/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-uzhasy\" group-title=\"RU Movie\" timeshift=\"7\",CineMan Ужасы
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11010/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",CineMan Miniseries
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19437/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-vhs\" group-title=\"RU Movie\" timeshift=\"7\",CineMan VHS
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11012/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-rukino\" group-title=\"RU Movie\" timeshift=\"7\",CineMan РуКино
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11013/index.m3u8
+#EXTINF:0 tvg-id=\"cineman-svaty\" group-title=\"RU Movie\" timeshift=\"7\",CineMan Сваты
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11014/index.m3u8
+#EXTINF:0 tvg-id=\"cartoons-big\" group-title=\"RU Movie\" timeshift=\"7\",Cartoons Big
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11003/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Cartoons_90
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11001/index.m3u8
+#EXTINF:0 tvg-id=\"cartoons-short\" group-title=\"RU Movie\" timeshift=\"7\",Cartoons Short
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11002/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кино 1 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18069/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кино 2 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18070/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Кино 1 International
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18071/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Военное кино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18072/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Детское кино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18073/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",Детское кино International
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18074/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Илья ТВ Кино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11103/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Илья ТВ Наше HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11106/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Илья ТВ Сериал HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11104/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",BEST Films HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11050/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Кинозал! ХИТ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11064/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Кинозал! VHS HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11059/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Кинозал! СССР
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11061/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Кинозал! Сваты
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11062/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Кинозал! Универ ТВ
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11063/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Кинозал! Интерны ТВ
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11060/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Sky2000 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11054/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Фантастика HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11070/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Страх HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11069/index.m3u8
+#EXTINF:0 tvg-id=\"strashnoe-hd\" group-title=\"RU Movie\" timeshift=\"7\",Страшное HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7247/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Backus TV Original HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11049/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Backus TV Dark HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10061/index.m3u8
+#EXTINF:0 tvg-id=\"kinopokaz-hd1\" group-title=\"RU Movie\" timeshift=\"7\",Шокирующее HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9004/index.m3u8
+#EXTINF:0 tvg-id=\"kinopokaz-hd1\" group-title=\"RU Movie\" timeshift=\"7\",Шокирующее HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/6299/index.m3u8
+#EXTINF:0 tvg-id=\"nstv\" group-title=\"RU Movie\" timeshift=\"7\",НСТ
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/726/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Киноджем 1 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7260/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Киноджем 2 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7261/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\",KinoJam_PROMO
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/18030/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-hd\" group-title=\"RU Movie\" timeshift=\"7\",Душевное кино HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10042/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-hd\" group-title=\"RU Movie\" timeshift=\"7\",Душевное кино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/914/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",HOT cinema 1 IL
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2357/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",HOT cinema 2 IL
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2371/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",HOT cinema 3 IL
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2372/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",HOT cinema 4 IL
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2356/index.m3u8
+#EXTINF:0 tvg-id=\"flixsnip\" group-title=\"RU Movie\" timeshift=\"7\",Flix Snip
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10060/index.m3u8
+#EXTINF:0 tvg-id=\"park-razvlecheniy\" group-title=\"RU Movie\" timeshift=\"7\",Cinema HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2185/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Сочи HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9040/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Сочи HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2433/index.m3u8
+#EXTINF:0 tvg-id=\"hollywood-hd\" group-title=\"RU Movie\" timeshift=\"7\",Hollywood HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9017/index.m3u8
+#EXTINF:0 tvg-id=\"hollywood-hd\" group-title=\"RU Movie\" timeshift=\"7\",Hollywood HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/209/index.m3u8
+#EXTINF:0 tvg-id=\"kinopokaz-hd2\" group-title=\"RU Movie\" timeshift=\"7\",Комедийное HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9005/index.m3u8
+#EXTINF:0 tvg-id=\"kinopokaz-hd2\" group-title=\"RU Movie\" timeshift=\"7\",Комедийное HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/912/index.m3u8
+#EXTINF:0 tvg-id=\"ostrsuszet-hd\" group-title=\"RU Movie\" timeshift=\"7\",Остросюжетное HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9044/index.m3u8
+#EXTINF:0 tvg-id=\"ostrsuszet-hd\" group-title=\"RU Movie\" timeshift=\"7\",Остросюжетное HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/904/index.m3u8
+#EXTINF:0 tvg-id=\"kinopremium-hd\" group-title=\"RU Movie\" timeshift=\"7\",Премиальное FHD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10017/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Премиальное HD 50
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10017/index.m3u8
+#EXTINF:0 tvg-id=\"kinopremium-hd\" group-title=\"RU Movie\" timeshift=\"7\",Премиальное HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7222/index.m3u8
+#EXTINF:0 tvg-id=\"kino-tv\" group-title=\"RU Movie\" timeshift=\"7\",Кино ТВ HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9051/index.m3u8
+#EXTINF:0 tvg-id=\"kino-tv\" group-title=\"RU Movie\" timeshift=\"7\",Кино ТВ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2097/index.m3u8
+#EXTINF:0 tvg-id=\"blokbaster\" group-title=\"RU Movie\" timeshift=\"7\",Блокбастер HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9087/index.m3u8
+#EXTINF:0 tvg-id=\"blokbaster\" group-title=\"RU Movie\" timeshift=\"7\",Блокбастер HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2436/index.m3u8
+#EXTINF:0 tvg-id=\"kamedi\" group-title=\"RU Movie\" timeshift=\"7\",Камеди HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9091/index.m3u8
+#EXTINF:0 tvg-id=\"kamedi\" group-title=\"RU Movie\" timeshift=\"7\",Камеди HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2441/index.m3u8
+#EXTINF:0 tvg-id=\"khit-hd\" group-title=\"RU Movie\" timeshift=\"7\",Хит HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9090/index.m3u8
+#EXTINF:0 tvg-id=\"khit-hd\" group-title=\"RU Movie\" timeshift=\"7\",Хит HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2438/index.m3u8
+#EXTINF:0 tvg-id=\"trashtv\" group-title=\"RU Movie\" timeshift=\"7\",Trash HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/6396/index.m3u8
+#EXTINF:0 tvg-id=\"russkij-extreme\" group-title=\"RU Movie\" timeshift=\"7\",Русский экстрим HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9042/index.m3u8
+#EXTINF:0 tvg-id=\"russkij-extreme\" group-title=\"RU Movie\" timeshift=\"7\",Russian Extreme HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2077/index.m3u8
+#EXTINF:0 tvg-id=\"russian-extreme-ultra\" group-title=\"RU Movie\" timeshift=\"7\",Русский Экстрим UHD 4K
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/5003/index.m3u8
+#EXTINF:0 tvg-id=\"domkino\" group-title=\"RU Movie\" timeshift=\"7\",Дом Кино
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/154/index.m3u8
+#EXTINF:0 tvg-id=\"domkino-prem\" group-title=\"RU Movie\" timeshift=\"7\",Дом кино Премиум HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/5082/index.m3u8
+#EXTINF:0 tvg-id=\"kinopokaz\" group-title=\"RU Movie\" timeshift=\"7\",Кинопоказ HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9092/index.m3u8
+#EXTINF:0 tvg-id=\"kinopokaz\" group-title=\"RU Movie\" timeshift=\"7\",Кинопоказ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2439/index.m3u8
+#EXTINF:0 tvg-id=\"nash-kinopokaz\" group-title=\"RU Movie\" timeshift=\"7\",Наш Кинопоказ HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9086/index.m3u8
+#EXTINF:0 tvg-id=\"nash-kinopokaz\" group-title=\"RU Movie\" timeshift=\"7\",Наш Кинопоказ HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2434/index.m3u8
+#EXTINF:0 tvg-id=\"mosfilm-golden\" group-title=\"RU Movie\" timeshift=\"7\",Мосфильм. Золотая коллекция HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7347/index.m3u8
+#EXTINF:0 tvg-id=\"mosfilm-golden\" group-title=\"RU Movie\" timeshift=\"7\",Мосфильм. Золотая коллекция
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/6392/index.m3u8
+#EXTINF:0 tvg-id=\"park-razvlecheniy\" group-title=\"RU Movie\" timeshift=\"7\",Cinéma
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19233/index.m3u8
+#EXTINF:0 tvg-id=\"kinosat\" group-title=\"RU Movie\" timeshift=\"7\",Киносат
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2121/index.m3u8
+#EXTINF:0 tvg-id=\"kinouzhas\" group-title=\"RU Movie\" timeshift=\"7\",Киноужас HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9033/index.m3u8
+#EXTINF:0 tvg-id=\"kinouzhas\" group-title=\"RU Movie\" timeshift=\"7\",Киноужас HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2056/index.m3u8
+#EXTINF:0 tvg-id=\"ntv-premiera\" group-title=\"RU Movie\" timeshift=\"7\",Кинопремьера HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9020/index.m3u8
+#EXTINF:0 tvg-id=\"ntv-premiera\" group-title=\"RU Movie\" timeshift=\"7\",Кинопремьера HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/224/index.m3u8
+#EXTINF:0 tvg-id=\"kinohit\" group-title=\"RU Movie\" timeshift=\"7\",Кинохит HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7250/index.m3u8
+#EXTINF:0 tvg-id=\"kinohit\" group-title=\"RU Movie\" timeshift=\"7\",Кинохит
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/516/index.m3u8
+#EXTINF:0 tvg-id=\"kino-plus\" group-title=\"RU Movie\" timeshift=\"7\",Киномикс HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7249/index.m3u8
+#EXTINF:0 tvg-id=\"kino-plus\" group-title=\"RU Movie\" timeshift=\"7\",Киномикс
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/509/index.m3u8
+#EXTINF:0 tvg-id=\"hd-kino\" group-title=\"RU Movie\" timeshift=\"7\",Киносемья HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7244/index.m3u8
+#EXTINF:0 tvg-id=\"hd-kino\" group-title=\"RU Movie\" timeshift=\"7\",Киносемья
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/125/index.m3u8
+#EXTINF:0 tvg-id=\"kinokomediya\" group-title=\"RU Movie\" timeshift=\"7\",Кинокомедия HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7248/index.m3u8
+#EXTINF:0 tvg-id=\"kinokomediya\" group-title=\"RU Movie\" timeshift=\"7\",Кинокомедия
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/145/index.m3u8
+#EXTINF:0 tvg-id=\"man-kino\" group-title=\"RU Movie\" timeshift=\"7\",Мужское Кино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10045/index.m3u8
+#EXTINF:0 tvg-id=\"man-kino\" group-title=\"RU Movie\" timeshift=\"7\",Мужское кино
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/164/index.m3u8
+#EXTINF:0 tvg-id=\"ntv-kinoklub\" group-title=\"RU Movie\" timeshift=\"7\",Киносвидание HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/7245/index.m3u8
+#EXTINF:0 tvg-id=\"ntv-kinoklub\" group-title=\"RU Movie\" timeshift=\"7\",Киносвидание
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/728/index.m3u8
+#EXTINF:0 tvg-id=\"mnogo-tv\" group-title=\"RU Movie\" timeshift=\"7\",Киносерия HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19229/index.m3u8
+#EXTINF:0 tvg-id=\"ntv-nashekino\" group-title=\"RU Movie\" timeshift=\"7\",Родное кино
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/126/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-novoe\" group-title=\"RU Movie\" timeshift=\"7\",Наше новое кино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/19231/index.m3u8
+#EXTINF:0 tvg-id=\"arsenal\" group-title=\"RU Movie\" timeshift=\"7\",Арсенал HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/5044/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000-premium\" group-title=\"RU Movie\" timeshift=\"7\",VIP Premiere orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/5079/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000-premium-hd\" group-title=\"RU Movie\" timeshift=\"7\",VIP Premiere
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/202/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000-megahit-hd\" group-title=\"RU Movie\" timeshift=\"7\",VIP Megahit orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/5081/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000-megahit-hd\" group-title=\"RU Movie\" timeshift=\"7\",VIP Megahit
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/201/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000-comedy-hd\" group-title=\"RU Movie\" timeshift=\"7\",VIP Comedy orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/5080/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000-comedy-hd\" group-title=\"RU Movie\" timeshift=\"7\",VIP Comedy
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/200/index.m3u8
+#EXTINF:0 tvg-id=\"vip-serial\" group-title=\"RU Movie\" timeshift=\"7\",VIP Serial HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2443/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000\" group-title=\"RU Movie\" timeshift=\"7\",TV1000 HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9058/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000\" group-title=\"RU Movie\" timeshift=\"7\",TV1000 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/6387/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",TV1000 Русское HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9059/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000_rus\" group-title=\"RU Movie\" timeshift=\"7\",TV1000 Русское Кино HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/6388/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000_rus_int\" group-title=\"RU Movie\" timeshift=\"7\",TV1000 World Kino
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/1065/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000-action\" group-title=\"RU Movie\" timeshift=\"7\",TV1000 Action HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9057/index.m3u8
+#EXTINF:0 tvg-id=\"tv1000-action\" group-title=\"RU Movie\" timeshift=\"7\",TV1000 Action HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/6386/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",Космо HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/11065/index.m3u8
+#EXTINF:0 tvg-id=\"retro\" group-title=\"RU Movie\" timeshift=\"7\",Ретро
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2018/index.m3u8
+#EXTINF:0 tvg-id=\"2x2\" group-title=\"RU Movie\" timeshift=\"7\",2X2
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/702/index.m3u8
+#EXTINF:0 tvg-id=\"fenix+kino\" group-title=\"RU Movie\" timeshift=\"7\",Феникс плюс Кино
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2039/index.m3u8
+#EXTINF:0 tvg-id=\"fan\" group-title=\"RU Movie\",FAN HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/16021/index.m3u8
+#EXTINF:0 tvg-id=\"fan\" group-title=\"RU Movie\" timeshift=\"7\",FAN
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/734/index.m3u8
+#EXTINF:0 tvg-id=\"evrokino\" group-title=\"RU Movie\" timeshift=\"7\",Еврокино HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9078/index.m3u8
+#EXTINF:0 tvg-id=\"evrokino\" group-title=\"RU Movie\" timeshift=\"7\",Еврокино
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/549/index.m3u8
+#EXTINF:0 tvg-id=\"star-cinema\" group-title=\"RU Movie\" timeshift=\"7\",Star Cinema
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/992/index.m3u8
+#EXTINF:0 tvg-id=\"epic-drama\" group-title=\"RU Movie\" timeshift=\"7\",Epic Drama
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/1048/index.m3u8
+#EXTINF:0 tvg-id=\"amedia-hd\" group-title=\"RU Movie\" timeshift=\"7\",Amedia premium HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9022/index.m3u8
+#EXTINF:0 tvg-id=\"amedia-hd\" group-title=\"RU Movie\" timeshift=\"7\",Amedia Premium HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/229/index.m3u8
+#EXTINF:0 tvg-id=\"amedia-hit\" group-title=\"RU Movie\" timeshift=\"7\",Amedia Hit HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9070/index.m3u8
+#EXTINF:0 tvg-id=\"amedia-hit\" group-title=\"RU Movie\" timeshift=\"7\",Amedia Hit HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/6010/index.m3u8
+#EXTINF:0 tvg-id=\"amedia1\" group-title=\"RU Movie\" timeshift=\"7\",Amedia 1 HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9069/index.m3u8
+#EXTINF:0 tvg-id=\"amedia1\" group-title=\"RU Movie\" timeshift=\"7\",Amedia 1
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/554/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",A2 HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9029/index.m3u8
+#EXTINF:0 tvg-id=\"A2.tr\" group-title=\"RU Movie\" timeshift=\"7\",A2 HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2046/index.m3u8
+#EXTINF:0 tvg-id=\"paramount\" group-title=\"RU Movie\" timeshift=\"7\",Paramount Channel HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9053/index.m3u8
+#EXTINF:0 tvg-id=\"paramount\" group-title=\"RU Movie\" timeshift=\"7\",Paramount Channel HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/5063/index.m3u8
+#EXTINF:0 tvg-id=\"paramount-comedy\" group-title=\"RU Movie\" timeshift=\"7\",Paramount Comedy HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9052/index.m3u8
+#EXTINF:0 tvg-id=\"paramount-comedy\" group-title=\"RU Movie\" timeshift=\"7\",Paramount Comedy HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/6000/index.m3u8
+#EXTINF:0 tvg-id=\"pobeda\" group-title=\"RU Movie\" timeshift=\"7\",Победа HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/5052/index.m3u8
+#EXTINF:0 tvg-id=\"home\" group-title=\"RU Movie\",Домашний HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/15116/index.m3u8
+#EXTINF:0 tvg-id=\"home\" group-title=\"RU Movie\" timeshift=\"7\",Домашний
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/514/index.m3u8
+#EXTINF:0 tvg-id=\"dorama\" group-title=\"RU Movie\" timeshift=\"7\",Дорама
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/1066/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-hd\" group-title=\"RU Movie\" timeshift=\"7\",Наше HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9046/index.m3u8
+#EXTINF:0 tvg-id=\"pro-lyubov\" group-title=\"RU Movie\" timeshift=\"7\",Про Любовь HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9089/index.m3u8
+#EXTINF:0 tvg-id=\"pro-lyubov\" group-title=\"RU Movie\" timeshift=\"7\",Про Любовь HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2430/index.m3u8
+#EXTINF:0 tvg-id=\"semeinoe-hd\" group-title=\"RU Movie\" timeshift=\"7\",Наше Крутое HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/10041/index.m3u8
+#EXTINF:0 tvg-id=\"semeinoe-hd\" group-title=\"RU Movie\" timeshift=\"7\",Наше крутое HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/915/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-muzhskoe\" group-title=\"RU Movie\" timeshift=\"7\",Наше Мужское HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9088/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-muzhskoe\" group-title=\"RU Movie\" timeshift=\"7\",Наше Мужское HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2440/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-lubimoe\" group-title=\"RU Movie\" timeshift=\"7\",Наше любимое HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9062/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-lubimoe\" group-title=\"RU Movie\" timeshift=\"7\",Наше любимое HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2106/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-hd\" group-title=\"RU Movie\" timeshift=\"7\",Наш кинороман HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9045/index.m3u8
+#EXTINF:0 tvg-id=\"nashe-hd\" group-title=\"RU Movie\" timeshift=\"7\",Наш Кинороман HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/914/index.m3u8
+#EXTINF:0 tvg-id=\"illuzion\" group-title=\"RU Movie\" timeshift=\"7\",Русский иллюзион HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9080/index.m3u8
+#EXTINF:0 tvg-id=\"illuzion\" group-title=\"RU Movie\" timeshift=\"7\",Русский иллюзион HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2114/index.m3u8
+#EXTINF:0 tvg-id=\"rus-bestseller\" group-title=\"RU Movie\" timeshift=\"7\",Русский бестселлер
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/905/index.m3u8
+#EXTINF:0 tvg-id=\"komediya\" group-title=\"RU Movie\" timeshift=\"7\",Русская Комедия
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/733/index.m3u8
+#EXTINF:0 tvg-id=\"rus-roman\" group-title=\"RU Movie\" timeshift=\"7\",Русский роман HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9041/index.m3u8
+#EXTINF:0 tvg-id=\"rus-roman\" group-title=\"RU Movie\" timeshift=\"7\",Русский роман HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2076/index.m3u8
+#EXTINF:0 tvg-id=\"rus-detective\" group-title=\"RU Movie\" timeshift=\"7\",Русский детектив
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/907/index.m3u8
+#EXTINF:0 tvg-id=\"illuzion+\" group-title=\"RU Movie\" timeshift=\"7\",Иллюзион+ HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9079/index.m3u8
+#EXTINF:0 tvg-id=\"illuzion+\" group-title=\"RU Movie\" timeshift=\"7\",Иллюзион +
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2038/index.m3u8
+#EXTINF:0 tvg-id=\"romantichnoe\" group-title=\"RU Movie\" timeshift=\"7\",Романтичное HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/5053/index.m3u8
+#EXTINF:0 tvg-id=\"lyubimoe-kino\" group-title=\"RU Movie\" timeshift=\"7\",Любимое Кино
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/722/index.m3u8
+#EXTINF:0 tvg-id=\"ntv-hit\" group-title=\"RU Movie\" timeshift=\"7\",НТВ‑ХИТ
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/741/index.m3u8
+#EXTINF:0 tvg-id=\"nostalgia\" group-title=\"RU Movie\" timeshift=\"7\",Ностальгия
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/102/index.m3u8
+#EXTINF:0 tvg-id=\"dorama\" group-title=\"RU Movie\" timeshift=\"7\",Дорама HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2131/index.m3u8
+#EXTINF:0 tvg-id=\"fast-n-funbox-hd\" group-title=\"RU Movie\" timeshift=\"7\",FAST&FUN BOX HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/1018/index.m3u8
+#EXTINF:0 tvg-id=\"set\" group-title=\"RU Movie\" timeshift=\"7\",Sony Channel HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9035/index.m3u8
+#EXTINF:0 tvg-id=\"set\" group-title=\"RU Movie\" timeshift=\"7\",Sony Channel HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/2062/index.m3u8
+#EXTINF:0 tvg-id=\"set\" group-title=\"RU Movie\" timeshift=\"7\",Sony Entertainment Television
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/559/index.m3u8
+#EXTINF:0 tvg-id=\"axn\" group-title=\"RU Movie\" timeshift=\"7\",Sony Sci-Fi
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/110/index.m3u8
+#EXTINF:0 tvg-id=\"sony-turbo\" group-title=\"RU Movie\" timeshift=\"7\",Sony Turbo
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/708/index.m3u8
+#EXTINF:0 tvg-id=\"film-box-arthouse\" group-title=\"RU Movie\" timeshift=\"7\",Filmbox Arthouse
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/1071/index.m3u8
+#EXTINF:0 tvg-id=\"fox-hd\" group-title=\"RU Movie\" timeshift=\"7\",FOX HD orig
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/9018/index.m3u8
+#EXTINF:0 tvg-id=\"fox-hd\" group-title=\"RU Movie\" timeshift=\"7\",Fox HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/219/index.m3u8
+#EXTINF:0 tvg-id=\"fox-crime\" group-title=\"RU Movie\" timeshift=\"7\",Fox Russia
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/550/index.m3u8
+#EXTINF:0 tvg-id=\"fox-life-hd\" group-title=\"RU Movie\" timeshift=\"7\",Fox Life HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/6389/index.m3u8
+#EXTINF:0 tvg-id=\"bolt\" group-title=\"RU Movie\" timeshift=\"7\",BOLT
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/991/index.m3u8
+#EXTINF:0 tvg-id=\"enter-film\" group-title=\"RU Movie\" timeshift=\"7\",Enter-фільм
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/933/index.m3u8
+#EXTINF:0 tvg-id=\"tv21\" group-title=\"RU Movie\" timeshift=\"7\",TV XXI
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/525/index.m3u8
+#EXTINF:0 tvg-id=\"vremya\" group-title=\"RU Movie\" timeshift=\"7\",Время
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/552/index.m3u8
+#EXTINF:0 tvg-id=\"mir-seriala\" group-title=\"RU Movie\" timeshift=\"7\",Мир Сериала
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/856/index.m3u8
+#EXTINF:0 tvg-id=\"ntv-serial\" group-title=\"RU Movie\" timeshift=\"7\",НТВ Сериал
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/744/index.m3u8
+#EXTINF:0 tvg-id=\"teledom\" group-title=\"RU Movie\" timeshift=\"7\",Теледом HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/954/index.m3u8
+#EXTINF:0 tvg-id=\"indiya\" group-title=\"RU Movie\" timeshift=\"7\",ИНДИЙСКОЕ КИНО
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/146/index.m3u8
+#EXTINF:0 tvg-id=\"zee\" group-title=\"RU Movie\" timeshift=\"7\",ZEE TV
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/1001/index.m3u8
+#EXTINF:0 tvg-id=\"bollywood-hd\" group-title=\"RU Movie\" timeshift=\"7\",Bollywood HD
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/239/index.m3u8
+#EXTINF:0 tvg-id=\"ext\" group-title=\"RU Movie\" timeshift=\"7\",UZ KLIP NEW
+http://986trdxg6433.ottolok.net/iptv/8Z3YX37CSZ44V5U4D4YHYYBD/13067/index.m3u8
